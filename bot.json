@@ -1,4 +1,9 @@
 {
+  "bb_sync_version":"1.0",
+  "name":"testBot",
+  "git_remote":"git@github.com:TojiVFX/VFX-Renamer-Bot.git",
+  "csv_url":"https://example.com/csv"
+},
   "name": "Quick Rename Bot",
   "description": "Telegram File Renaming Bot With Metadata Feature ",
   "logo": "https://envs.sh/_h.jpg",
