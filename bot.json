@@ -3,6 +3,4 @@
   "name":"testingbot",
   "git_remote":"git@github.com:TojiVFX/VFX-Renamer-Bot.git",
   "csv_url":"https://example.com/csv"
-    }
-  }
 }
